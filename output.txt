@@ -2,3 +2,4 @@
 
 Total Objects: 1
    Total Size: 11.9 KiB
+   Changes made: 1
